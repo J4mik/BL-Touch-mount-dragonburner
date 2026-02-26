@@ -1,2 +1,2 @@
-# BL-Touch-probe-mount-dragonburner-toolhead-
+# BL Touch probe mount for dragonburner toolhead
 A BL-touch holder for my ender 5 pro
